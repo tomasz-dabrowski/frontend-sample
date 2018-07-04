@@ -10,12 +10,15 @@ Gimp, HTML5, CSS3, Bootstrap 4, W3C validated
 <table>
   <tr>
     <td>
-      <img src="https://design.media.pl/github/frontend/sample/doc/02lg.png" height="500px" />
+      <img src="https://design.media.pl/github/frontend/sample/doc/02lg.png" height="300px" />
     </td>
     <td>
-      <img src="https://design.media.pl/github/frontend/sample/doc/04sm.png" height="500px" />
+      <img src="https://design.media.pl/github/frontend/sample/doc/03md.png" height="300px" />
     </td>
     <td>
-      <img src="https://design.media.pl/github/frontend/sample/doc/05xs.png" height="500px" />
+      <img src="https://design.media.pl/github/frontend/sample/doc/04sm.png" height="300px" />
+    </td>
+    <td>
+      <img src="https://design.media.pl/github/frontend/sample/doc/05xs.png" height="300px" />
     </td>
 </table
