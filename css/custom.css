@@ -65,8 +65,7 @@ p {
 header {
 	height: 149px;
 	border-bottom: 1px solid #eeeeee;
-	background: #222222;
-	background-image: linear-gradient(to left, #222222, #555555, #222222);
+	background: #222222 linear-gradient(to left, #222222, #555555, #222222);
 }
 
 #top-search {
@@ -118,7 +117,7 @@ header {
 .nav ul li {
 	display: inline-block;
 	text-decoration: none;
-	margin: 16px 35px 0px 35px;
+	margin: 16px 35px 0 35px;
 }
 
 .nav ul li a {
@@ -131,7 +130,7 @@ header {
     color: #ffffff;
     display: block;
     padding: 28px 20px 10px 20px;
-	margin: -28px -20px 0px -20px;
+	margin: -28px -20px 0 -20px;
     background-image: linear-gradient(to top, #d64000, #fa6526);
     box-shadow: 3px 3px 5px rgba(0, 0, 0, .4);
     border-radius: 5px;
@@ -262,7 +261,7 @@ aside {
 }
 
 .aside-third em {
-	margin: 5px 15px 0px 5px;
+	margin: 5px 15px 0 5px;
 }
 
 .aside-third h3 {
@@ -299,17 +298,16 @@ article h1 {
 
 .extra-box {
 	color: #777777;
-	margin: -20px;
 	padding: 20px 20px 0 20px;
 	background-image: linear-gradient(to top, #eee, #fff);
 	border-radius: 5px;
-   	margin-bottom: -7px;
+	margin: -20px -20px -7px;
 }
 
 .extra-box em {
 	float: left; 
 	color: #fa4b00;
-	margin: 7px 15px 0px 0px;
+	margin: 7px 15px 0 0;
 }
 .extra-box h3 {
 	color: #333333;
@@ -413,12 +411,12 @@ footer .list ul {padding-left: 15px;}
 footer .list li {
 	line-height: 2em;
 	background: url(../images/marker3.png) 0 9px no-repeat;
-	padding: 0px 0px 0px 12px;
+	padding: 0 0 0 12px;
 }
 footer .list li:first-child{
 	line-height: 2em;
 	background: url(../images/marker3.png) 0 9px no-repeat;
-	padding: 0px 0px 0px 12px;
+	padding: 0 0 0 12px;
 }
 
 .copyright {
@@ -461,7 +459,6 @@ ul ul {
 	padding:0;
 }
 
-/* kunden img */
 .gray img {
 	width: 18%;
 }
@@ -480,11 +477,11 @@ ul ul {
 	margin-bottom: -15px;}
 .list2 li {
 	background: url(../images/marker3.png) 0 6px no-repeat;
-	padding: 0px 0px 15px 15px;
+	padding: 0 0 15px 15px;
 }
 .list2 li:first-child{
 	background: url(../images/marker3.png) 0 6px no-repeat;
-	padding: 0px 0px 15px 15px;
+	padding: 0 0 15px 15px;
 }
 
 .validate h1 {
