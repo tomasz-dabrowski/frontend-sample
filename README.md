@@ -7,4 +7,7 @@ Gimp, HTML5, CSS3, Bootstrap 4, W3C validated
   <li><a href="https://design.media.pl/github/frontend/sample/3Dcube/">Cube 3D online demo</a></li>
 </ul>
 
-<img src="https://design.media.pl/github/frontend/sample/doc/01xl.png" />
+<img src="https://design.media.pl/github/frontend/sample/doc/02lg.png" />
+<img src="https://design.media.pl/github/frontend/sample/doc/03md.png" />
+<img src="https://design.media.pl/github/frontend/sample/doc/04sm.png" />
+<img src="https://design.media.pl/github/frontend/sample/doc/05xs.png" />
